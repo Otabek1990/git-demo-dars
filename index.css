@@ -8,3 +8,8 @@ nav{
     background-color: royalblue;
     padding: 20px 60px;
 }
+.banner{
+    height: 450px;
+    width: 100%;
+    background-color: pink;
+}
